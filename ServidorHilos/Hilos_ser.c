@@ -67,6 +67,7 @@ int main(int argc, char const *argv[])
 				if(buffsiz!=0){
 					printf("%s\n",buffer );
 				}
+				//Hasta que momento el servidor debe dejar de interactuar con el cliente
 			
 				exit(0);
 			}
